@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Atracciones
+comment0.text=\r\n\ Atracciones\ que\ hay\ en\ el\ parque\ de\ atracciones\r\n\ \r\n\ @author\ (Sergio\ Camara)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=nombre\ altura\ vip\ edad\ numAyudantes
+comment1.target=Atracciones(java.lang.String,\ boolean,\ boolean,\ boolean,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Atracciones\r\n
+comment2.params=maxima\ minima
+comment2.target=void\ restricionAltura(boolean,\ boolean)
+comment2.text=\r\n\ Si\ tiene\ restricion\ de\ altura\ la\ atraccion\ se\ marca\ la\ altura\ maxima,minima\ o\ las\ 2\r\n\ \r\n\ @param\ boleano\ para\ saber\ si\ hay\ altura\ maxima\r\n\ @param\ boleano\ para\ saber\ si\ hay\ altura\ minima\r\n
+comment3.params=adultos\ ni\u00F1os
+comment3.target=void\ restricionEdad(boolean,\ boolean)
+comment3.text=\r\n\ Si\ hay\ restricion\ por\ edad\ de\ que\ tipo\ es\r\n\ \r\n\ @param\ boleano\ para\ saber\ si\ hay\ restricion\ de\ entrada\ a\ adultos\r\n\ @param\ boleano\ para\ saber\ si\ hay\ restriccion\ de\ entrada\ a\ ni\u00F1os\r\n
+comment4.params=
+comment4.target=int\ dameResponsables()
+comment4.text=\r\n\ Devuelve\ el\ numero\ de\ responsables\ de\ atraccion\r\n\ \r\n\ @return\ numero\ de\ responsables\r\n
+comment5.params=
+comment5.target=int\ dameAyudantes()
+comment5.text=\r\n\ Devuelve\ el\ numero\ de\ ayudantes\ de\ atraccion\r\n\ \r\n\ @return\ numero\ de\ ayudantes\r\n
+comment6.params=
+comment6.target=java.lang.String\ dameNombre()
+comment6.text=\r\n\ Devuelve\ el\ nombre\ de\ la\ atraccion\r\n\ \r\n\ @return\ nombre\ de\ la\ atraccion\r\n
+comment7.params=
+comment7.target=int\ calculoCoste()
+comment7.text=\r\n\ Devuelve\ el\ coste\ de\ la\ atraccion\r\n\ \r\n\ @return\ coste\ de\ la\ atraccion\r\n
+numComments=8

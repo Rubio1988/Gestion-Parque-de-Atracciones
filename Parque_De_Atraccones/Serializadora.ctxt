@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Serializadora
+comment0.text=\r\n\ Clase\ para\ manejar\ el\ archivo\ externo\r\n\ \r\n\ @author\ (Sergio\ Camara)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=objeto\ nombreFichero
+comment1.target=void\ escribirObjeto(java.lang.Object,\ java.lang.String)
+comment1.text=\r\n\ Metodo\ para\ escribir\ el\ archivo\ externo\r\n\ \r\n\ @param\ objeto\ para\ incluir\ en\ el\ fichero\r\n\ @param\ nombre\ del\ fichero\r\n
+comment2.params=nombreDelArchivo
+comment2.target=java.lang.Object\ leerObjeto(java.lang.String)
+comment2.text=\r\n\ Metodo\ para\ escribir\ el\ archivo\ externo\r\n\ \r\n\ @param\ nombre\ del\ fichero\r\n\ @return\ datos\ del\ fichero\r\n
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AtraccionesFuncionando
+comment0.text=\r\n\ Esta\ clase\ maneja\ las\ atraciones\ que\ hay\ funcionando\ y\ en\ base\ a\ ello\ crea\ las\ estadisticas\ del\ parque\r\n\ \r\n\ @author\ (Sergio\ Camara)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=nombre\ altura\ vip\ edad\ numAyudantes
+comment1.target=AtraccionesFuncionando(java.lang.String,\ boolean,\ boolean,\ boolean,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ AtraccionesFuncionando\r\n
+comment2.params=
+comment2.target=void\ estadoAtraccon()
+comment2.text=\r\n\ Metodo\ para\ manejar\ si\ una\ atraccion\ funciona\r\n
+comment3.params=
+comment3.target=int\ dameMesMantenimiento()
+comment3.text=\r\n\ Metodo\ que\ devuelve\ el\ mes\ en\ el\ que\ la\ atraccion\ no\ funciona\r\n\ \r\n\ @return\ numero\ del\ mes\ que\ la\ atraccion\ no\ funciona\r\n
+comment4.params=
+comment4.target=boolean\ dameFunciona()
+comment4.text=\r\n\ Metodo\ que\ devuelve\ boolean\ del\ estado\ de\ funcionamiento\ de\ la\ atraccion\r\n\ \r\n\ @return\ false\ si\ la\ atraccion\ no\ funciona\r\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ResponsableAtraccion
+comment0.text=\r\n\ Subclase\ de\ la\ clase\ trabajadores\r\n\ \r\n\ @author\ (Sergio\ Camara)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=ResponsableAtraccion()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ ResponsableAtraccion\r\n
+comment2.params=
+comment2.target=void\ subeSueldo()
+comment2.text=\r\n\ Modifica\ el\ sueldo\ del\ trabajador\r\n
+numComments=3

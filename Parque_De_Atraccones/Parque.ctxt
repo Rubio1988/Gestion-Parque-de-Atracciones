@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Parque
+comment0.text=\r\n\ Metodo\ main\ con\ el\ programa\ del\ parque\r\n\ \r\n\ @author\ (Sergio\ Camara)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Parque()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
